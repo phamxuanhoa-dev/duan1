@@ -1,0 +1,19 @@
+/* đứng sát ngay sau dùng + */
+/* h1+h2 {
+    color: greenyellow;
+}
+
+.demo.demo2+h2,
+p {
+    color: grey;
+} */
+
+
+/* đứng sau nhưng không cần sát ngay dùng ~ */
+h1~h3 {
+    color: blue;
+}
+
+div~div {
+    color: red;
+}

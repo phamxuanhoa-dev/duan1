@@ -1,0 +1,17 @@
+1)CSS Prefix
+    -)Khái quát: CSS có rất nhiều thuộc tính va không phải thuộc tính nào cũng hỗ trợ tất cả các trình duyệt
+    -)Khi gặp các thuộc tính không hỗ  trợ tất cả trình duyệt, cần thêm tiền tố prefix để được hỗ trợ (vendor prefix css)
+
+    Internet Explorer: -ms-
+    Chrome: -webkit-
+    Safari: -webkit-
+    Firebox: -moz-
+    IOS: -webkit-
+    Android: -webkit-
+    Opera: -o-
+    Microsoft Edge: -ms-
+
+    -)Auto prefix: Có thể copy css -> trang web sẽ tự thêm prefix cho những thuộc tính cần thiết
+
+2)Caniuse.com
+    Caniuse.com: Trang web hỗ trợ kiểm tra thuộc tính CSS có cần sử dụng thêm prefix để hỗ trợ đa trình duyệt
