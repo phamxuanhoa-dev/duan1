@@ -1,0 +1,21 @@
+1)Opacity
+    Thuộc tính opacity:
+        +)opacity-quy định độ trong suốt
+        +) 1. 0.0 ->1.0 (mờ nhất đến rõ nhất)
+        +) 2. 0% -> 100% (mờ nhất đến rõ nhất)
+        +) Không nhìn thấy trên giao diện
+        +) Vẫn chiếm không gian 
+        +)Vẫn tương tác được
+
+2)Display: none
+    Thuộc tính display:none
+        +)ẩn phần tử khỏi giao diện(xóa cả không gian đang chiếm)
+
+3)Visibility
+    Thuộc tính visibility:
+        +)Ẩn hoặc hiện element:
+            -visibility:hidden; (ẩn)
+            -visibility:visible;(hiện)
+        +)Không nhìn thấy trên giao diện
+        +)Vẫn chiếm không gian
+        +)Không tương tác được
