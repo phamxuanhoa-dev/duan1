@@ -1,0 +1,36 @@
+/* p:first-child {
+    color: red;
+    font-size: 30px;
+} */
+
+/*pt con  cuối cùng  */
+/* p:last-child {
+    color: blue;
+    font-size: 35px;
+} */
+
+/* thẻ con thứ n */
+/*  odd: nhảy theo n số lẻ
+    even: nhảy theo n số chẵn
+    2n+1: nhảy theo step mong muốn */
+
+/* p:nth-child(2) {
+    color: pink;
+} */
+
+/* 
+n=0 -> 1
+n=1 -> 4 
+n=2 -> 7
+....
+*/
+p:nth-last-child(odd) {
+    color: red;
+    font-size: 30px;
+}
+
+/* thẻ p là thẻ con duy nhất */
+p:only-child {
+    color: blue;
+    font-size: 40px;
+}

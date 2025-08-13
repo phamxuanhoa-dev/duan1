@@ -1,0 +1,9 @@
+/* 3. Tác dụng lên selector khi chưa click vào truy cập*/
+.click_me:link{
+    color: orange;
+}
+
+/* 4. Tác dụng lên selector khi đã click vào truy cập*/
+.click_me:visited{
+    color: green;
+}

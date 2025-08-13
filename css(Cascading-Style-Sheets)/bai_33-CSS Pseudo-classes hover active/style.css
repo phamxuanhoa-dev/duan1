@@ -1,0 +1,11 @@
+/*1. Tác dụng lên selector khi di chuột qua 
+.di_chuot:hover {
+    color: red;
+    font-size: 30px;
+} */
+
+/* 2. Tác dụng lên selector khi nhấn giữ chuột */
+.di_chuot:active {
+    color: red;
+    font-size: 30px;
+}
