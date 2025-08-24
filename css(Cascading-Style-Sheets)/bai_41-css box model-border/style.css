@@ -1,0 +1,27 @@
+div {
+  width: 100px;
+  height: 100px;
+  color: yellow;
+  background-color: red;
+  /* viền */
+  border: 10px solid blue;
+
+  /* border-top: 10px solid pink;
+    border-left: 5px dashed black;
+    border-right: 5px dotted black;
+    border-bottom: 5px double black; */
+
+  /* border-width: 10px 20px 30px 40px;
+    border-style: solid dotted dashed;
+    border-color: pink; */
+
+  /* border-radius: 30px; */
+  /* ghi tuong minh */
+
+  /* border-top-left-radius: 10px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 50px; */
+
+  border-radius: 30px 10px 80px 50px;
+}
