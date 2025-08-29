@@ -1,0 +1,13 @@
+.parent{
+    /* viewport width */
+    width: 80vw;
+    /* viewport height */
+    height: 80vh;
+    background-color: yellow;
+}
+
+.child{
+    width: 50vw;
+    height: 50vh;
+    background-color: violet;
+}
